@@ -1,0 +1,3 @@
+Hello!!!! I just opened this file from the command line and am now writing to it!
+
+Bam!
