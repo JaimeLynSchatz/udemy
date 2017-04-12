@@ -1,0 +1,63 @@
+1492024500096	geckodriver	INFO	Listening on 127.0.0.1:1995
+1492024502189	mozprofile::profile	INFO	Using profile path C:\Users\JAIMES~1\AppData\Local\Temp\rust_mozprofile.HIxSLPfGrU1S
+1492024502208	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492024502241	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2001
+1492024505233	Marionette	INFO	Listening on port 2001
+1492024506972	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+ckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492024604777	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2043
+1492024606888	Marionette	INFO	Listening on port 2043
+1492024608042	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+ckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492024692928	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2099
+1492024695039	Marionette	INFO	Listening on port 2099
+1492024696185	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492026002178	Marionette	INFO	New connections will no longer be accepted
+[Child 12932] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492026037078	geckodriver	INFO	Listening on 127.0.0.1:2461
+1492026039147	mozprofile::profile	INFO	Using profile path C:\Users\JAIMES~1\AppData\Local\Temp\rust_mozprofile.frQ96PKIuR06
+1492026039168	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492026039190	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2467
+1492026041323	Marionette	INFO	Listening on port 2467
+1492026042467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492026204291	Marionette	INFO	New connections will no longer be accepted
+[Child 12712] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492026280899	geckodriver	INFO	Listening on 127.0.0.1:2623
+1492026282977	mozprofile::profile	INFO	Using profile path C:\Users\JAIMES~1\AppData\Local\Temp\rust_mozprofile.3Ip63hemTiJg
+1492026282997	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492026283019	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2629
+1492026285152	Marionette	INFO	Listening on port 2629
+1492026286303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.shopify.com/s/files/1/1015/4487/t/61/assets/redirect.js?5697486387593863778, line 193: TypeError: self.urlMap[location.country_code] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492027883520	Marionette	INFO	New connections will no longer be accepted
+[Child 5516] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492036059665	geckodriver	INFO	Listening on 127.0.0.1:5875
+1492036061738	mozprofile::profile	INFO	Using profile path C:\Users\JAIMES~1\AppData\Local\Temp\rust_mozprofile.d3lxGzGL8p1T
+1492036061760	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492036061793	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5881
+1492036063976	Marionette	INFO	Listening on port 5881
+1492036065153	Marionette	WARN	TLS certificate errors will be ignored for this session
