@@ -1,0 +1,48 @@
+import docx
+
+# Document object contains Paragraph Objects
+# and list of run objects
+
+d = docx.Document('')
+d.paragraphs
+d.paragraphs[1].text
+p = d.paragraphs[1]
+newDoc = docx.Document()
+newDoc.add_paragraph('Hello this is a new paragraph')
+newDoc.add_paragraph('This is a another paragraph.')
+newDoc.save('demo4.docx')
+
+
+More examples here:
+>>> for paragraph in d.paragraphs:
+...   print(paragraph.text)
+...
+Open CMO, log in as michaelgetty.test@cropins.net
+Nav to Anson Family Farms
+View 2016 Policy, 1018247
+Download Corn Policy (includes YE Option)
+Open in SalesTools
+Nav to APH break out from scenario,
+
+then again to view Unit Details
+
+
+
+
+Make note of current selections. (screenshot?)
+
+
+
+
+Change year to 2017
+
+Open APH breakouts again and
+change some of the YE selections in the Unit Details screen.
+
+Export changed quote to Client Database, then compare in EPIC using steps in PBI description (this level of detail not viewable in CMO) to ensure changes were included in export.
+>>> d = docx.Document()
+>>>
+
+
+
+

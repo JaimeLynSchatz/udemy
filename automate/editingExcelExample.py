@@ -7,7 +7,7 @@ wb.get_sheet_names()
 
 sheet = wb.get_sheet_by_name('Sheet')
 
-sheet
+print(sheet)
 
 sheet['A1'].value
 # will be none at this time
@@ -17,3 +17,7 @@ sheet['A2'] = 'Hello'
 
 wb.save('new_example.xlsx')
 
+sheet2 = wb.create_sheet()
+print(wb.get_sheet_names())
+sheet2.title = 'Awesome New Title'
+wb.save('XLexample2.xlxs')
